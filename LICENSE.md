@@ -1,4 +1,4 @@
-# 
+# Último Visual Studio Code temas para Mac OS | Inteligente Visual Studio Code temas para PC Windows. Con soporte GraphQL y comprobaciones de salud — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
